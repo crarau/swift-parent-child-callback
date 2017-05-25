@@ -1,0 +1,6 @@
+framework module Pods_ParentChildCallback {
+  umbrella header "Pods-ParentChildCallback-umbrella.h"
+
+  export *
+  module * { export * }
+}
